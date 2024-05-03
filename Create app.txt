@@ -1,0 +1,1 @@
+npx create-next-app -e https://github.com/KostuX/next-app-template/
